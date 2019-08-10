@@ -1,0 +1,19 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  font-family: Lato;
+  
+}
+
+li a {
+  text-decoration: none;
+  color: black;
+  line-height: 160%;
+}
+
